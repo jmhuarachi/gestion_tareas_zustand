@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/gestion_tareas_zustand2/',
+  base: '/gestion_tareas_zustand/',
   plugins: [
     react(),
     tailwindcss(),
